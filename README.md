@@ -30,7 +30,6 @@ Uygulama Python 3.6 veya daha yüksek sürümünde çalışır ve aşağıdaki k
 - tkinter (genellikle Python ile gelir)
 
 ## 🛠️ Kurulum
-git clone https://github.com/KullaniciAdi/munchinproject.git
 cd munchinproject
 pip install -r requirements.txt
 
